@@ -1,0 +1,5 @@
+# Ignore Linux Kernel directory
+linux-6.12.7/
+
+# Keep all other files
+!*
