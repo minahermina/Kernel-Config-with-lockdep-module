@@ -1,3 +1,5 @@
+**Note: This repository and README are currently incomplete and in a draft state. The documentation and setup instructions may be incomplete or unprofessional. Use with caution.**
+
 # Linux Kernel Configuration with Lockdep Module
 
 This repository contains Linux kernel version 6.12.7 configured with kernel debugging features enabled, specifically focusing on the lockdep (lock dependency) module.
