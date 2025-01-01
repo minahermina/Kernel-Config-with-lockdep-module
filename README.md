@@ -1,4 +1,4 @@
-**Note: This repository and README are currently incomplete and in a draft state. The documentation and setup instructions may be incomplete or unprofessional. Use with caution.**
+> ⚠️ **CAUTION:** This repository and README are currently incomplete and in a draft state. The documentation and setup instructions may be incomplete or unprofessional. Use with caution.
 
 # Linux Kernel Configuration with Lockdep Module
 
